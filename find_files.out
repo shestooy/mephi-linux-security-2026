@@ -1,0 +1,13 @@
+bash-5.3# find / -type f -perm -4000 -ls 2>/dev/null
+     6573    208 ---s--x--x   1 root     root       211080 Jan 17  2026 /usr/bin/sudo
+     6368     44 -rwsr-xr-x   1 root     root        42120 Jan 27  2026 /usr/bin/newgrp
+     6421     20 -rwsr-xr-x   1 root     root        19792 Jan 23  2026 /usr/bin/pam_timestamp_check
+     6356     76 -rwsr-xr-x   1 root     root        74536 Jan 27  2026 /usr/bin/chage
+     6359     76 -rwsr-xr-x   1 root     root        74032 Jan 27  2026 /usr/bin/gpasswd
+     6423     28 -rwsr-xr-x   1 root     root        28176 Jan 23  2026 /usr/bin/unix_chkpwd
+     6504     56 -rwsr-xr-x   1 root     root        57184 Jan 17  2026 /usr/bin/su
+     6433     28 -rws--x--x   1 root     root        28160 Jan 17  2026 /usr/bin/chfn
+     6288     36 -rwsr-xr-x   1 root     root        36360 Jan 17  2026 /usr/bin/umount
+     6277     48 -rwsr-xr-x   1 root     root        48744 Jan 17  2026 /usr/bin/mount
+     6436     28 -rws--x--x   1 root     root        28088 Jan 17  2026 /usr/bin/chsh
+     6371     92 -rwsr-xr-x   1 root     root        91424 Jan 27  2026 /usr/bin/passwd
