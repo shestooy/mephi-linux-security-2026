@@ -17,5 +17,5 @@
  * [etc_sudoers.out](etc_sudoers.out) - /etc/sudoers
 -----
  * [find_files.out](find_files.out) - Файл с выводом команды поиска файлов
- * [monitoring_proc.out](monitoring_proc.out) - Файл с выводом команды мониторинга процессов
+ * [monitoring_proc.out](monitoring_proc.out) - Файл с выводом команды мониторинга процессов, интересует строка 43
 -----

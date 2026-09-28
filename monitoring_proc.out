@@ -21,24 +21,24 @@ bash-5.3# ps -eo pid,ruid,euid,user,comm
    1341     0     0 root     SessionLeader
    1343     0     0 root     Relay(1345)
    1345  1000  1000 mi1249   ijent
-   1532     0     0 root     systemd-userwor
-   1533     0     0 root     systemd-userwor
-   1534     0     0 root     systemd-userwor
-   1685     0     0 root     SessionLeader
-   1686     0     0 root     Relay(1688)
-   1688  1000  1000 mi1249   zsh
-   1820  1000     0 root     sudo
-   1824     0     0 root     systemd
-   1826     0     0 root     (sd-pam)
-   1839  1000     0 root     sudo
-   1840     0     0 root     su
-   1846     0     0 root     bash
-   1857     0     0 root     SessionLeader
-   1858     0     0 root     Relay(1859)
-   1859  1000  1000 mi1249   zsh
-   1868     0     0 root     systemd-hostnam
-   1939  1000     0 root     sudo
-   1941  1000     0 root     sudo
-   1942     0     0 root     su
-   1943  1234  1234 user1    bash
-   1963     0     0 root     ps
+   2687     0     0 root     systemd-userwor
+   2688     0     0 root     systemd-userwor
+   2689     0     0 root     systemd-userwor
+   2690     0     0 root     SessionLeader
+   2691     0     0 root     Relay(2692)
+   2692  1000  1000 mi1249   zsh
+   2760     0     0 root     SessionLeader
+   2761     0     0 root     Relay(2762)
+   2762  1000  1000 mi1249   zsh
+   2823  1000     0 root     sudo
+   2827     0     0 root     systemd
+   2829     0     0 root     (sd-pam)
+   2842  1000     0 root     sudo
+   2843     0     0 root     su
+   2849  1234  1234 user1    bash
+   2883  1000     0 root     sudo
+   2885  1000     0 root     sudo
+   2886     0     0 root     su
+   2887     0     0 root     bash
+   2893  1234     0 root     passwd
+   2900     0     0 root     ps
